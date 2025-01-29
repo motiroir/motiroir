@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **contact.tiroirmorgane@gmail.com**
 
-- 📄 Know about my experiences [Here](https://www.linkedin.com/in/morgane-tiroir/overlay/1736761038801/single-media-viewer/?profileId=ACoAAB9OMkoBxBbRlG_uSvj9k0LC8d9kgtBll40)
+- 📄 Know about my experiences [Here](https://github.com/motiroir/motiroir/raw/master/resume-motiroir-dev.pdf)
 
 - ⚡ Fun fact **I'm a great cook and a karate black belt.**
 
